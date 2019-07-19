@@ -1,6 +1,5 @@
 ---
 title: Our Butt
-type: products
 image: /img/products-jumbotron.jpg
 heading: What we offer
 description: >-
@@ -65,14 +64,15 @@ testimonials:
       The first time I tried Kaldi’s coffee, I couldn’t even believe that was
       the same thing I’ve been drinking every morning.
     testhole:
-        puppies: 4
-        birthdate: 21/08/1984
+      birthdate: Invalid date
+      puppies: 4
   - author: Philipp Trommler
     quote: >-
       Kaldi is the place to go if you want the best quality coffee. I love their
       stance on empowering farmers and transparency.
     testhole:
-        puppies: 4
+      birthdate: 19/07/2019
+      puppies: 4
 full_image: /img/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
@@ -103,3 +103,4 @@ pricing:
       plan: Custom
       price: '?'
 ---
+
