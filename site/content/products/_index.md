@@ -59,19 +59,19 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 testimonials:
-  - author: Elisabeth Kaurismächeekybutt
-    quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-    testhole:
-      birthdate: Invalid date
-      puppies: 4
   - author: Philipp Trommler
     quote: >-
       Kaldi is the place to go if you want the best quality coffee. I love their
       stance on empowering farmers and transparency.
     testhole:
-      birthdate: 19/07/2019
+      birthdate: 21/08/1984
+      puppies: 4
+  - author: Elisabeth Kaurismächeekybutt
+    quote: >-
+      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
+      the same thing I’ve been drinking every morning.
+    testhole:
+      birthdate: 03/07/2019
       puppies: 4
 full_image: /img/products-full-width.jpg
 pricing:
