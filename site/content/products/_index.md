@@ -54,12 +54,12 @@ main:
     image: /img/products-grid3.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/dam.jpg
   image3:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 testimonials:
-  - author: Philipp Trommler
+  - author: Philip Mollusc
     quote: >-
       Kaldi is the place to go if you want the best quality coffee. I love their
       stance on empowering farmers and transparency.
