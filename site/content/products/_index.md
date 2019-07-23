@@ -1,5 +1,5 @@
 ---
-title: Our Butt
+title: Omni is ace
 image: /img/products-jumbotron.jpg
 heading: What we offer
 description: >-
